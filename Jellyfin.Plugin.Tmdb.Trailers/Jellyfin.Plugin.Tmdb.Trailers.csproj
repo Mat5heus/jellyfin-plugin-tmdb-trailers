@@ -2,7 +2,7 @@
 
     <PropertyGroup>
         <TargetFramework>net8.0</TargetFramework>
-        <RootNamespace>Jellyfin.Plugin.Tmdb.Trailers</RootNamespace>
+        <RootNamespace>Jellyfin.Plugin.Tmdb.Trailers.2.0</RootNamespace>
         <Version>10.0.0.0</Version>
         <AssemblyVersion>10.0.0.0</AssemblyVersion>
         <FileVersion>10.0.0.0</FileVersion>

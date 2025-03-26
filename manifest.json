@@ -1,12 +1,12 @@
 [
     {
         "guid": "69104c31-d23f-4040-b99c-8913c09751d6",
-        "name": "TMDb Trailers",
+        "name": "TMDb Trailers 2.0",
         "description": "Watch trailers from TMDb\n",
         "overview": "Watch trailers from TMDb",
-        "owner": "crobibero",
+        "owner": "Mat5heus",
         "category": "Channels",
-        "imageUrl": "https://raw.githubusercontent.com/crobibero/jellyfin-plugin-tmdb-trailers/master/Jellyfin.Plugin.Tmdb.Trailers/Images/jellyfin-plugin-tmdb.png",
+        "imageUrl": "https://raw.githubusercontent.com/Mat5heus/jellyfin-plugin-tmdb-trailers/master/Jellyfin.Plugin.Tmdb.Trailers/Images/jellyfin-plugin-tmdb.png",
         "versions": [
             {
                 "version": "14.0.0.0",
